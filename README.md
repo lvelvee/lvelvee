@@ -10,7 +10,4 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=lvelvee&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lvelvee&hide=TeX&layout=compact)
-
 ![Visitor Count](https://profile-counter.glitch.me/lvelvee/count.svg)
