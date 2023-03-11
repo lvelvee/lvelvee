@@ -2,12 +2,6 @@
 
 ## ⚡ Technologies
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+[[![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,git,go,idea,java,jenkins,kotlin,linux,mysql,nginx,python,qt,raspberrypi,lua,openresty,javascript,react,vue,electron&perline=10)](https://skillicons.dev)](https://skillicons.dev/icons?i=linux,bash,c,cpp,git,github,python,django,fastapi,pytorch,go,java,spring,javascript,react,vue,cs,postgresql,mysql,nginx,lua,qt,electron,selenium,prometheus,redis,docker,k8s,jenkins,ansible&perline=10)
 
 ![Visitor Count](https://profile-counter.glitch.me/lvelvee/count.svg)
