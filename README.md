@@ -7,7 +7,5 @@
 ![Visitor Count](https://profile-counter.glitch.me/lvelvee/count.svg)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=celery&repo=django-celery-results&show_owner=true)](https://github.com/celery/django-celery-results)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=celery&repo=django-celery-beat&show_owner=true)](https://github.com/celery/django-celery-beat)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexmojaki&repo=heartrate&show_owner=true)](https://github.com/alexmojaki/heartrate)
