@@ -2,7 +2,7 @@
 
 ## ⚡ Technologies
 
-![My Skills](https://skillicons.dev/icons?i=linux,bash,c,cpp,git,github,python,django,fastapi,pytorch,go,java,spring,javascript,react,vue,cs,postgresql,mysql,nginx,lua,qt,electron,selenium,prometheus,redis,docker,k8s,jenkins,ansible&perline=10)
+![My Skills](https://skillicons.dev/icons?i=linux,bash,c,cpp,git,github,python,django,fastapi,pytorch,go,java,spring,javascript,react,vue,cs,postgresql,mysql,nginx,lua,qt,electron,selenium,prometheus,redis,docker,k8s,jenkins,ansible&perline=10&theme=light)
 
 ## Contributions
 
